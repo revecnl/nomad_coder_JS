@@ -15,7 +15,8 @@
 4. null 비어있음
 5. undefined 변수에 값을 부여하지 않은 상태
 
-**3) Array
+**3) Array**
+
 //데이터 구조에 대한 정리
 // array 나열
 
